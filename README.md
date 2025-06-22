@@ -20,7 +20,30 @@ The analysis covers:
 # Data Sources:
  Cleaned and structured datasets  provided by client as a CSVfile which was downloaded and processed for analysis
 
-# Met
+# Methodology
+
+The project followed a structured data analysis workflow:
+
+Data Collection & Import
+* Sourced datasets from [insert source]
+* Loaded and examined initial structure using Python (pandas)
+
+Data Cleaning
+* Handled missing values, duplicates, and inconsistent formatting
+* Standardized date and numeric formats for consistency
+* Renamed columns for clarity and readability
+
+Exploratory Data Analysis (EDA)
+* Performed descriptive statistics to understand distributions
+* Identified trends, outliers, and correlations in key variables
+* Used visual tools for better data interpretation
+
+Feature Engineering
+* Created derived metrics such as monthly sales, total revenue, and average unit price
+* Categorized car types, segmented price ranges, and grouped brands
+
+Tools & Libraries
+* Python: pandas, numpy, matplotlib
 
 
 
