@@ -34,12 +34,25 @@ showing the most popular vehicles, sales by region, sales by gender, age range a
 * Identified trends, outliers, and correlations in key variables
 * Used visual tools for better data interpretation
 
-Feature Engineering
-* Created derived metrics such as monthly sales, total revenue, and average unit price
-* Categorized car types, segmented price ranges, and grouped brands
+### Feature Engineering
+* Categorized car brands, segmented price ranges, and grouped brands
+  
+### Insight and visualization
+-**Generated dashboard and charts for:** brand-wise performance, Top elling models
+  * interactive slicers  to allow dynamic expolation of trends   
+
+### Dashboard key Features: 
+
+Slicers to filter sales data by:
+
+Age range
+Car brand 
+Location
+Interactive visualizations for better insights
+User-friendly layout with intuitive controls
 
 Tools & Libraries
-* Python: pandas, numpy, matplotlib
+* Excel workbook, Power querry, power BI  
 
 
 
