@@ -22,14 +22,14 @@ showing the most popular vehicles, sales by region, sales by gender, age range a
 
 # Methodology
   - **Data Collection & Import:** Gathering car sales  data and records
-* Loaded and examined initial structure using Python (pandas)
+* Loaded and examined initial structure using Excel workbook
 
-Data Cleaning
-* Handled missing values, duplicates, and inconsistent formatting
-* Standardized date and numeric formats for consistency
-* Renamed columns for clarity and readability
+### Data Cleaning
+  * Handled missing values, duplicates, and inconsistent formatting
+  * Standardized date and numeric formats for consistency
+  * Renamed columns for clarity and readability
 
-Exploratory Data Analysis (EDA)
+### Exploratory Data Analysis (EDA)
 * Performed descriptive statistics to understand distributions
 * Identified trends, outliers, and correlations in key variables
 * Used visual tools for better data interpretation
