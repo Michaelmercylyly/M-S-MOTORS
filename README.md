@@ -8,17 +8,17 @@ showing the most popular vehicles, sales by region, sales by gender, age range a
 
 ### Scope
 The analysis covers:
-    * Time Frame: Sales data from [ 2018 to 2023].
-    * Geographical Coverage: [Nigeria].
+  * Time Frame: Sales data from [ 2018 to 2023].
+  * Geographical Coverage: [Nigeria].
 
 ### Key Focus Areas:
-    * Anlysis by gender
-    * Sales performance by brand and model
-    *Pricing distribution and impact on sales
+  * Anlysis by gender
+  * Sales performance by brand and model
+  *Pricing distribution and impact on sales
   * Regional sales distribution
 
 # Data Sources:
-Cleaned and structured datasets  provided by client as a CSVfile which was downloaded and processed for analysis
+ Cleaned and structured datasets  provided by client as a CSVfile which was downloaded and processed for analysis
 
 # Met
 
